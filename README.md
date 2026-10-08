@@ -1,8 +1,17 @@
+<div align="center">
+
+<img src="og.jpg" alt="GitHub Insights" width="640">
+
 # GitHub Insights | تحليل حسابات GitHub
 
 أداة عربية تحلّل أي حساب على GitHub في صفحة واحدة: اللغات، النجوم، النشاط، وأفضل المستودعات، مع مقارنة بين حسابين. تعمل بالكامل في المتصفح بدون سيرفر ولا تسجيل دخول.
 
-**التجربة:** https://l7v0l.github.io/github-insights/
+[![Live](https://img.shields.io/badge/Live-جرّبه-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://l7v0l.github.io/github-insights/)
+[![License](https://img.shields.io/badge/License-MIT-8957e5?style=for-the-badge)](LICENSE)
+
+**[🚀 جرّبه الآن](https://l7v0l.github.io/github-insights/)**
+
+</div>
 
 ## المميزات
 
@@ -56,6 +65,10 @@ js/app.js       الواجهة والأحداث
 ## الأمان
 
 كل نص قادم من GitHub (الأسماء، النبذة، الأوصاف) يُهرَّب قبل عرضه، والروابط تُفحص قبل استخدامها.
+
+## دعم المشروع
+
+إذا أفادك المشروع، أعطه ⭐ من أعلى الصفحة. وأي اقتراح أو خطأ افتح عنه [Issue](https://github.com/l7v0l/github-insights/issues).
 
 ## الترخيص
 
